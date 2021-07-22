@@ -14,4 +14,4 @@
 - It's alright to be stressed, take a break
 
 
-*📄 [Resume](https://drive.google.com/file/d/1kpwtUbvfpVHDqYVWfFLJ9eO0SjbwwYgU/view?usp=sharing)*
+
