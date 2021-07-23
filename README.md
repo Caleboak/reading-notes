@@ -3,7 +3,9 @@
 
 # Table of Contents
 -[What does it to have a growth mindset?](/whatDoesItMean) 
+
 -[Having a growth mindset VS having a fixed mindset](/growthVsFixed)
+
 -[Message to myself](/messageToMyself)
 
 
