@@ -1,12 +1,12 @@
-## All about Git and its commands
-### What is Git?
-##### Git is a version-control system for tracking changes in computer files and coordinating work on those files among multiple people. Git is a Distributed Version Control System. 
+# All about Git and its commands
+## What is Git?
+#### Git is a version-control system for tracking changes in computer files and coordinating work on those files among multiple people. Git is a Distributed Version Control System. 
 
 -Git helps you keep track of the changes you make to your code: Git keeps the history of changes made on a file. If you make errors, you can easily back track through the history of changes to find any error
 
 -Git also helps you synchronise code between multiple people: If a group of people are working on the same project file. Git can take all the changes and add them to the master branch. This way everyone is working with the most recent changes.
 
-### Fundamentals of a git workflow
+## Fundamentals of a git workflow
 #### Local Repo
 #### Remote Repo
 #### Staging Area
@@ -35,7 +35,7 @@
 #### *git remote add origin 'remote_repository_URL'* - sets the new remote
 #### *git push -u origin master* - pushes changes to origin
 
-*Notes*
+## Notes
 ##### *git diff* To show the files changes not yet staged
 ##### *git checkout .*  Revert back to the last committed version to the Git Repo
 ##### *git clone 'Remote Repo URL'* - to download the repo from remote to your working directory
