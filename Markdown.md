@@ -1,9 +1,9 @@
 ## What is Markdown?
-### Markdown is a markup language used to create formatted text, typically for publishing on the internet. It is useful if you want to create a quick website with just a few syntax, markdown is your best bet.
-### Markdown is way easier and faster because it is just plain test with stuffs added to it to give it a difference apperance.
+### Markdown is a markup language used to create formatted text, typically for publishing on the internet. If you want to create a quick website with just a few syntax, markdown is your best bet.
+### Markdown is way easier and faster because it is just plain test with stuffs added to it to give it a different apperance.
 - Headers: You just add *#* to the beginning of each sentence and it automatically becomes a header. The more *#* you add determines how smaller you want the font to be. E.g *# Topic* has a bigger font than *## Topic* and so on.
 
-- Italics: You can italicize text by wrapping it in single asterisks just to put more attention to that word. Example `"*Japan*"` results in *Japan*
+- Italics: You can italicize text by wrapping it in single asterisks just to put more attention to that word. Example `*Japan*` results in *Japan*
 
 - Bold: You can grab the attention of your readers by making it bold. You can do this by just adding double asteriks to the beginning and ending of your word. For Example `**Golang**` results in **Golang**
 
