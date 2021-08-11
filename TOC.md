@@ -2,9 +2,11 @@
 <h3 align="center">Just a guy trying to figure stuffs out </h3>
 
 # Table of Contents
--[Growth Mindset](README.md) 
+-[Growth Mindset](growthMindset.md) 
 
 -[Git](Git.md)
+
+-[Coders Computer](coderComputer.md)
 
 -[Markdown](Markdown.md)
 
